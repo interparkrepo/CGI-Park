@@ -1,0 +1,297 @@
+ 
+.table1{
+  border-bottom-width : 1px;
+  border-bottom-width : 1px;
+  border-bottom-style : solid;
+  border-bottom-color : #002f00;
+  font-size : 14px;
+  font-weight : bold;
+  color : #fcfecb;
+  background-color : #44043a;
+}
+.table2{
+  font-size : 13px;
+  font-weight : normal;
+  background-color : #fdfde3;
+border-width : 1px 1px 1px 1px;border-style : solid solid solid solid;border-top-color : #827068;border-left-color : #827068;border-right-color : #827068;border-bottom-color : #827068;}
+.teble3{
+  font-size : 13px;
+  
+  color : #493821;
+  border-width : 1px 1px 1px 1px;border-style : solid solid solid solid;border-top-color : #796d46;border-right-color : #796d46;border-bottom-color : #796d46;border-left-color : #796d46;
+}
+.teble4{
+  font-size : 13px;
+  background-color : #fffffb;
+  padding-top : 5px;
+  padding-left : 5px;
+  padding-right : 5px;
+  padding-bottom : 5px;
+  border-top-width : 1px;
+  border-left-width : 1px;
+  border-right-width : 1px;
+  border-bottom-width : 1px;
+  border-style : solid solid solid solid;
+  border-top-color : #6a0013;border-right-color : #6a0013;border-bottom-color : #6a0013;border-left-color : #6a0013;
+  font-weight : normal;
+  color : #493821;
+  line-height : 18px;
+}
+.table5{
+  font-size : 13px;
+  font-weight : normal;
+  color : #5b2c1e;border-width : 1px 1px 1px 1px;border-top-style : solid;border-left-style : solid;border-right-style : solid;border-bottom-style : solid;border-color : #50644d #50644d #50644d #50644d;
+  background-color : #ffffff;
+}
+.cell0{
+  background-color : #e1d7a2;
+}
+.cell1{
+  
+  background-color : #fdfde3;
+  color : #5b2c1e;
+  
+}
+.cell2{
+  color : #5b2c1e;
+  background-color : #e0d8b6;
+  
+}
+.cell3{
+  
+  
+  background-color : #f3eecb;
+}
+.cell4{
+  
+  color : #999999;
+  background-color : #eeeeee;
+}
+.cell5{
+  font-weight : normal;
+}
+.line_cell0{
+  
+  background-color : #e1d7a2;
+  border-bottom-width : 1px;
+  border-bottom-style : solid;
+  border-bottom-color : #a08b6d;
+}
+.line_cell1{
+  
+  
+  background-color : #fdfde3;
+  border-bottom-width : 1px;
+  border-bottom-style : solid;
+  border-bottom-color : #9b8428;
+}
+.line_cell2{
+  border-bottom-width : 1px;
+  border-bottom-style : solid;
+  border-bottom-color : #675434;
+  
+  background-color : #e0d8b6;
+}
+.line_cell3{
+  
+  color : #5b2c1e;
+  border-bottom-width : 0px;
+  border-bottom-width : 1px;
+  border-bottom-style : solid;
+  border-bottom-color : #ad8d3a;
+  background-color : #f3eecb;
+}
+.line_cell4{
+  
+  color : #999999;
+  background-color : #eeeeee;
+  border-bottom-width : 1px;
+  border-bottom-style : solid;
+  border-bottom-color : #aab4b4;
+}
+.line_cell5{
+  font-weight : normal;
+}
+.line_cell6{
+  
+  color : #5b2c1e;
+  border-bottom-width : 0px;
+  border-bottom-width : 3px;
+  border-bottom-style : double;
+  border-bottom-color : #5b2c1e;
+  
+}
+.title_cell1{
+  font-size : 14px;
+  background-color : #705612;
+  color : #ffffff;
+  font-weight : bold;
+  border-width : 1px 1px 1px 1px;border-style : solid solid solid solid;border-color : #fffcd7 black #de9c54;border-left-color : black;border-bottom-color : black;border-left-color : #fffcd7;
+  padding-top : 6px;
+  padding-left : 6px;
+  padding-bottom : 6px;
+}
+.title_cell2{
+  font-size : 14px;
+  background-color : #715b37;
+  font-weight : bold;
+  color : #fbffc1;
+  letter-spacing : 2px;
+  padding-top : 8px;
+  padding-left : 8px;
+  padding-right : 8px;
+  padding-bottom : 8px;
+}
+.title_cell3{
+  font-weight : normal;
+}
+.title_cell4{
+  font-weight : normal;
+}
+.title_cell5{
+  font-weight : normal;
+}
+.title_text1{
+  font-size : 14px;
+  font-weight : bold;
+  color : maroon;
+}
+.title_text2{
+  font-weight : normal;
+}
+.title_text3{
+  font-weight : normal;
+}
+.title_text4{
+  font-weight : normal;
+}
+.title_text5{
+  font-weight : normal;
+}
+
+.pict1{
+  color : #993f39;
+  background-color : #993f39;
+}
+.pict2{
+  color : #ffffff;
+  background-color : #fcca56;border-top-width : 1px;border-right-width : 1px;border-bottom-width : 1px;border-left-width : 1px;border-style : solid solid solid solid;border-color : white olive;border-bottom-color : white;border-left-color : #493821;border-left-color : #493821;border-left-color : maroon;border-bottom-color : olive;border-left-color : white;
+  text-align : left;
+  vertical-align : middle;
+}
+.pict3{
+  color : white;
+  background-color : #ff8040;
+  border-right-width : 1px;
+  border-bottom-width : 1px;
+  border-right-style : solid;
+  border-bottom-style : solid;
+  border-right-color : #993f39;
+  border-bottom-color : #993f39;
+  border-top-width : 1px;
+  border-left-width : 1px;
+  border-top-style : solid;
+  border-left-style : solid;
+  border-top-color : white;
+  border-left-color : white;
+}
+.pict4{
+  color : #50644d;
+  background-color : #50644d;
+}
+
+.color1{
+  background-color : #705612;
+  
+}
+.color2{
+  background-color : #97926f;
+}
+.color3{
+  font-size : 13px;
+  background-color : #e1d7a2;
+}
+.color4{
+  font-weight : normal;
+}
+.color5{
+  font-weight : normal;
+}
+.color6{
+  font-weight : normal;
+}
+.color7{
+  background-color : ##f7cb63;
+}
+.text1{
+  line-height : 17px;
+  padding-top : 5px;
+  padding-left : 5px;
+  padding-right : 5px;
+  padding-bottom : 5px;
+  color : #79614a;
+}
+BODY{
+  font-size : 13px;
+  color : #404000;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+}
+TH{
+  font-size : 12px;
+  color : #fcfecb;
+  background-color : #705612;
+  font-weight : bold;
+  padding-top : 4px;
+  padding-bottom : 4px;
+}
+A{
+  color : #008080;
+}
+A:HOVER{
+  color : #ff8080;
+}
+TABLE{
+  font-size : 13px;
+}
+.menu_title1{
+  background-color : #765c32;
+  font-size : 14px;
+  font-weight : bold;
+  color : white;
+  border-bottom-width : 1px;
+  border-bottom-style : solid;
+  border-bottom-color : black;
+}
+.menu_title2{
+  background-color : #9b8c6a;
+  
+  border-top-width : 2px;
+  border-bottom-width : 2px;
+  border-top-style : solid;
+  border-bottom-style : solid;
+  border-top-color : #234947;
+  border-bottom-color : #234947;
+  color : #f9f7ec;
+}
+.menu_title3{
+  background-color : #f4ebce;
+  border-bottom-width : 1px;
+  border-bottom-style : solid;
+  border-bottom-color : #400000;
+  font-size : 12px;
+}
+.menu_body{
+  background-color : #fdfde3;
+  border-right-width : 1px;
+  border-right-style : solid;
+  border-right-color : #526129;
+}
+
+A.A_menu{color : #656a53;
+  text-decoration : none;
+}
+A.A_menu:hover{color:#FF3300;}
+

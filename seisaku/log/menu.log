@@ -1,0 +1,15 @@
+12	作業メニュー				0
+13	登録データ一覧	admin.cgi?html=log			0
+17	新規登録	admin.cgi?html=log&action=new			0
+16	カテゴリ管理	admin.cgi?html=category			0
+15	アクセスカウンター	admin.cgi?html=count			0
+1	基本設定				0
+2	アカウント設定	admin.cgi?html=account			0
+11	テンプレート設定	admin.cgi?html=template	1		0
+3	環境設定	admin.cgi?html=conf	1		0
+4	フォルダ設定	admin.cgi?html=folder	1		0
+9	管理メニュー		1		0
+14	HTMLの再構築	admin.cgi?html=html&action=remake	1		0
+6	ログイン履歴	admin.cgi?html=login&action=check	1		0
+5	メニュー管理	admin.cgi?html=menu&action=setup	1		0
+8	システム情報	admin.cgi?html=admin&action=show_license	1		0

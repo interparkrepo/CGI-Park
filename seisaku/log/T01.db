@@ -1,0 +1,35 @@
+serial	管理コード	SERIAL											0
+time	登録日時	TIME											0
+uptime	最終更新日時	TIME											0
+template	表示スタイル	hidden											0
+status	公開フラグ	hidden											0
+count	カウント	hidden											0
+title	タイトル	text		1		1		タイトルを入力してください。					0
+kana	検索用ふりがな	text			1:4:6:								0
+cate	カテゴリ	select		1		1							0
+text1	ホームページ	text			1:4	1							0
+text2	テキスト2	text											0
+text3	テキスト3	text											0
+text4	テキスト4	text											0
+text5	テキスト5	text											0
+com1	実績概要	textarea		1		1		一覧表示の際に表示される実績概要になります。<BR>50文字程度で簡潔に記述してください。	45-4				0
+com2	実績詳細	textarea		1		1							0
+com3	解説3	textarea											0
+com4	解説4	textarea											0
+com5	解説5	textarea											0
+photo0	サムネイル画像	file				1		一覧表示で表示するサムネイル画像を登録してください。<BR>画像サイズは「120×90」にしてください。					0
+photo1	メイン画像	file				1		280×210ピクセルの画像を登録してください。					0
+title1	メイン画像のタイトル	text				1							0
+p_msg1	メイン画像の説明	textarea				1			40-4				0
+photo2	写真2	file											0
+title2	写真2タイトル	text											0
+p_msg2	写真2説明	textarea											0
+photo3	写真3	file											0
+title3	写真3タイトル	text											0
+p_msg3	写真3説明	textarea											0
+photo4	写真4	file											0
+title4	写真4タイトル	text											0
+p_msg4	写真4説明	textarea											0
+photo5	写真5	file											0
+title5	写真5タイトル	text											0
+p_msg5	写真5説明	textarea											0
